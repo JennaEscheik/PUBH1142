@@ -3,32 +3,13 @@ Spring 2026 | The George Washington University
 
 Welcome to my <span style="color:#ff69b4;"><strong>Health Data Science Homework Repository</strong></span>.
 
-This repository contains assignments, labs, and projects focused on Python, statistics, and real-world public health data.
+This repository contains my coursework for PUBH 1142, where we apply Python, statistical reasoning, and ethical data practices to real-world public health problems.
 
----
-
-## Repository Structure
-
-```bash
-PUBH1142/
-├── HW/
-├── Labs/
-└── Final_Project/
-```
-
----
-
-## Focus Areas
-
-- Python programming  
-- Data cleaning & analysis  
-- Statistical reasoning  
-- Ethical health data practices  
-
-<span style="color:#ffb6c1;"><strong>Transforming data into meaningful public health insight.</strong></span>
+<span style="color:#ffb6c1;"><strong>Using data to better understand and improve population health.</strong></span>
 
 ---
 
 Jenna Escheik  
 BS Health Data Science  
 The George Washington University
+
